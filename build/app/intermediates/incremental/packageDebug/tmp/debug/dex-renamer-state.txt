@@ -1,0 +1,4 @@
+#Thu Aug 19 01:10:14 GMT+05:30 2021
+base.0=D\:\\Arvind_workspace\\projects\\chat_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
